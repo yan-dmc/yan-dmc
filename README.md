@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/yan-caio-9670a8219/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:yancaio.dmc@gmail.com" target="_blank">
+  <a href="[mailto:yancaio.dmc@gmail.com](https://criarmeulink.com.br/u/1735941688)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20%E2%80%8E%20&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_yan.dev/" target="_blank">
