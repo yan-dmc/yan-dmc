@@ -21,8 +21,7 @@
 
 <br clear="both">
 
-<img align="right" height="165" src="https://i.ibb.co/bbSXDJN/octocat-1736015104096.png" style="-webkit-transform: scaleX(-1);
-  transform: scaleX(-1);"  />
+<img align="right" width="30%" src="https://i.ibb.co/rGyqZM5/myoctocat.png"  />
 
 ###
 
