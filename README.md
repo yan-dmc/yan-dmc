@@ -21,7 +21,8 @@
 
 <br clear="both">
 
-<img align="right" height="165" src="https://i.ibb.co/b503kqV/Y-logo-Black.png"  />
+<img align="right" height="165" src="https://i.ibb.co/bbSXDJN/octocat-1736015104096.png" style="-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);"  />
 
 ###
 
